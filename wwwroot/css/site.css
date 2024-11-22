@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.card.bg-primary {
+  background-color: #1b6ec2;
+}
+
+.card.bg-warning {
+  background-color: #ffc107;
+}
+
+.card.bg-success {
+  background-color: #28a745;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}

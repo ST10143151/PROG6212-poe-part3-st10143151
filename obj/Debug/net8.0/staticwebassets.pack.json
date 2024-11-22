@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/projectbundle/CMCS.bundle.scp.css",
+      "PackagePath": "staticwebassets/CMCS.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/25316a84-c86d-4de8-b556-b166e9ebc261_ClaimSummary.pdf",
+      "PackagePath": "staticwebassets/uploads/25316a84-c86d-4de8-b556-b166e9ebc261_ClaimSummary.pdf"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/5407578e-70bc-4969-b789-40f469f86140_ClaimSummary.pdf",
+      "PackagePath": "staticwebassets/uploads/5407578e-70bc-4969-b789-40f469f86140_ClaimSummary.pdf"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/56fdd788-bce5-4e51-8ef5-3f31ead4e02b_WhatsApp Image 2024-10-16 at 17.28.20.jpeg",
+      "PackagePath": "staticwebassets/uploads/56fdd788-bce5-4e51-8ef5-3f31ead4e02b_WhatsApp Image 2024-10-16 at 17.28.20.jpeg"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/7554714f-ed10-4ac0-a170-7da69a543b8c_bruce-lee-quotes-1.jpg",
+      "PackagePath": "staticwebassets/uploads/7554714f-ed10-4ac0-a170-7da69a543b8c_bruce-lee-quotes-1.jpg"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/CMCS.png",
+      "PackagePath": "staticwebassets/uploads/CMCS.png"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/a1074255-5fde-431a-b30f-dccbc34a2881_bruce-lee-quotes-1.jpg",
+      "PackagePath": "staticwebassets/uploads/a1074255-5fde-431a-b30f-dccbc34a2881_bruce-lee-quotes-1.jpg"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/b4353d54-c7b8-4a33-a8d2-815c9a1717de_ClaimSummary.pdf",
+      "PackagePath": "staticwebassets/uploads/b4353d54-c7b8-4a33-a8d2-815c9a1717de_ClaimSummary.pdf"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/ba0a067b-074f-4347-847e-3a74c02232c2_ClaimSummary.pdf",
+      "PackagePath": "staticwebassets/uploads/ba0a067b-074f-4347-847e-3a74c02232c2_ClaimSummary.pdf"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/e744be99-77d0-44f3-b20b-a29b7c9aa515_ClaimSummary.pdf",
+      "PackagePath": "staticwebassets/uploads/e744be99-77d0-44f3-b20b-a29b7c9aa515_ClaimSummary.pdf"
+    },
+    {
+      "Id": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/fc9a4287-787c-4891-9af7-55f9f734f231_ClaimSummary.pdf",
+      "PackagePath": "staticwebassets/uploads/fc9a4287-787c-4891-9af7-55f9f734f231_ClaimSummary.pdf"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CMCS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CMCS.props",
+      "PackagePath": "build\\CMCS.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CMCS.props",
+      "PackagePath": "buildMultiTargeting\\CMCS.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CMCS.props",
+      "PackagePath": "buildTransitive\\CMCS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

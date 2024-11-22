@@ -1,0 +1,26 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>Office</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lecturer in Model)
+        {
+            <tr>
+                <td>@lecturer.Name</td>
+                <td>@lecturer.Email</td>
+                <td>@lecturer.Department</td>
+                <td>@lecturer.Office</td>
+                <td>
+                    <a asp-action="EditLecturer" asp-route-id="@lecturer.Id" class="btn btn-info">Edit</a>
+                    <a asp-action="DeleteLecturer" asp-route-id="@lecturer.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

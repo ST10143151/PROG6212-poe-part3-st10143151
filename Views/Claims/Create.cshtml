@@ -1,0 +1,81 @@
+@model CMCS.Models.Claim
+
+@{
+    ViewData["Title"] = "Create Claim";
+}
+
+<h2>Create Claim</h2>
+
+@if (User.IsInRole("Lecturer"))
+{
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-primary">Create New Claim</a>
+    </div>
+}
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="StartDate" class="control-label"></label>
+        <input asp-for="StartDate" type="date" class="form-control" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="EndDate" class="control-label"></label>
+        <input asp-for="EndDate" type="date" class="form-control" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Reason" class="control-label"></label>
+        <input asp-for="Reason" class="form-control" />
+        <span asp-validation-for="Reason" class="text-danger"></span>
+    </div>
+
+    <!-- Hours Worked Input -->
+    <div class="form-group">
+        <label asp-for="HoursWorked" class="control-label"></label>
+        <input asp-for="HoursWorked" id="hoursWorked" type="number" step="0.1" min="0" class="form-control" />
+        <span asp-validation-for="HoursWorked" class="text-danger"></span>
+    </div>
+
+    <!-- Hourly Rate Input -->
+    <div class="form-group">
+        <label asp-for="HourlyRate" class="control-label"></label>
+        <input asp-for="HourlyRate" id="hourlyRate" type="number" step="0.01" min="0" class="form-control" />
+        <span asp-validation-for="HourlyRate" class="text-danger"></span>
+    </div>
+
+    <!-- Total Payment Calculation -->
+    <div class="form-group">
+        <label>Total Payment:</label>
+        <input id="totalPayment" type="text" class="form-control" readonly />
+    </div>
+
+    <!-- Document Upload -->
+    <div class="form-group">
+        <label asp-for="Document" class="control-label">Upload Document</label>
+        <input type="file" name="Document" class="form-control" />
+    </div>
+
+    <!-- Submit and Cancel Buttons -->
+    <div class="form-group mt-3">
+        <input type="submit" value="Create" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        // Calculate TotalPayment dynamically
+        $('#hoursWorked, #hourlyRate').on('input', function () {
+            const hours = parseFloat($('#hoursWorked').val()) || 0;
+            const rate = parseFloat($('#hourlyRate').val()) || 0;
+            $('#totalPayment').val((hours * rate).toFixed(2));
+        });
+    </script>
+}

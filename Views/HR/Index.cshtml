@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "HR Dashboard";
+}
+
+<h2>HR Dashboard</h2>
+
+<p>Welcome to the HR Dashboard. Use the links below to manage lecturer data and claims.</p>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        <a asp-controller="HR" asp-action="ManageLecturers" class="btn btn-primary">Manage Lecturers</a>
+    </li>
+    <li class="list-group-item">
+        <a asp-action="GenerateReport" asp-controller="HR">Generate Claims Report</a>
+    </li>
+</ul>

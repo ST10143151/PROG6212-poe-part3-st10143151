@@ -1,0 +1,63 @@
+<tbody>
+    @if (Model != null && Model.Any())
+    {
+        foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.Id</td>
+                <td>@(claim.Name ?? "N/A")</td>
+                <td>@claim.HoursWorked</td>
+                <td>@(claim.HourlyRate.HasValue ? claim.HourlyRate.Value.ToString("C") : "N/A")</td>
+                <td>@(claim.TotalPayment.HasValue ? claim.TotalPayment.Value.ToString("C") : "N/A")</td>
+                <td>
+                    @if (claim.Status == "Approved")
+                    {
+                        <span class="badge bg-success">Approved</span>
+                    }
+                    else if (claim.Status == "Auto-Approved")
+                    {
+                        <span class="badge bg-light text-success">Auto-Approved</span>
+                    }
+                    else if (claim.Status == "Pending")
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                    else if (claim.Status == "Rejected")
+                    {
+                        <span class="badge bg-danger">Rejected</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-secondary">Unknown</span>
+                    }
+                </td>
+                <td>
+                    @if (User.IsInRole("Coordinator") || User.IsInRole("Admin"))
+                    {
+                        <div class="d-flex gap-2">
+                            <a asp-action="Approve" asp-route-id="@claim.Id" class="btn btn-success btn-sm" aria-label="Approve claim">
+                                <i class="bi bi-check-circle"></i> Approve
+                            </a>
+                            <a asp-action="Reject" asp-route-id="@claim.Id" class="btn btn-danger btn-sm" aria-label="Reject claim">
+                                <i class="bi bi-x-circle"></i> Reject
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No actions available</span>
+                    }
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="7" class="text-center">
+                <div class="text-muted">No claims available.</div>
+                <a asp-action="Create" class="btn btn-primary mt-2">Submit a New Claim</a>
+            </td>
+        </tr>
+    }
+</tbody>

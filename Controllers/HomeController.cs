@@ -30,22 +30,22 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
 
-    // Constructor
+    // Constructor Method
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
     }
-    // Index
+    // Index Method
     public IActionResult Index()
     {
         return View();
     }
-    // Privacy
+    // Privacy Method
     public IActionResult Privacy()
     {
         return View();
     }
-    // Error
+    // Error Method
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

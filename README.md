@@ -49,8 +49,8 @@ The Contract Monthly Claim System (CMCS) is a web-based application designed to 
    ```json
    {
        "ConnectionStrings": {
-           "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=CMCS;Trusted_Connection=True;"
-       }
+            "DefaultConnection": "Data Source=CMCS.db"
+        }
    }
    ```
 4. Apply migrations and seed the database:
@@ -94,8 +94,8 @@ dotnet test
 - Enhanced user experience through progressive web app (PWA) features.
 
 ## Contributors
-- [Your Name]
-- [Your Team Members]
+- Ananta Reddy
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

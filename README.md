@@ -1,6 +1,8 @@
 # PROG6212-poe-part3-st10143151
  
+Github Link: https://github.com/ST10143151/PROG6212-poe-part3-st10143151.git
 
+Youtube Link: https://youtu.be/Y8_1P_mrtXM
 
 
 # Contract Monthly Claim System (CMCS)
@@ -41,7 +43,7 @@ The Contract Monthly Claim System (CMCS) is a web-based application designed to 
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ST10143151/PROG6212-poe-part3-st10143151.git
    cd CMCS
    ```
 2. Open the solution file (`CMCS.sln`) in Visual Studio.

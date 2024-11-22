@@ -8,13 +8,22 @@
 //Applications, 7(4), pp.102-115.
 //Microsoft, 2023. ASP.NET Core MVC Overview. Microsoft Docs. Available at: 
 //https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-8.0 [Accessed 18 October 2024].
+//Microsoft, 2024. Entity Framework Core Documentation. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/ef/core/ [Accessed 18 November 2024].
+//Microsoft, 2024. Introduction to Identity on ASP.NET Core. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-8.0 [Accessed 18 November 2024].
+//Microsoft, 2024. Configure ASP.NET Core Identity. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration?view=aspnetcore-9.0 [Accessed 18 November 2024].
+//Microsoft, 2024. EF Core Tools Reference (.NET CLI). Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/ef/core/cli/dotnet/ [Accessed 18 November 2024].
 //Troelsen, A. and Japikse, P., 2021. Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming.
+//Full code attribution in Readme.md
 
 using Microsoft.AspNetCore.Identity;
 
 namespace CMCS.Models
 {
-    // Add profile data for application users by adding properties to the User class
+    
     public class User : IdentityUser
     {
        

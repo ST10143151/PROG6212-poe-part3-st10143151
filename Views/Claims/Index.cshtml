@@ -63,7 +63,7 @@
                 <td>@claim.EndDate.ToShortDateString()</td>
                 <td>
                     <a asp-action="Details" asp-route-id="@claim.Id" class="btn btn-info">View</a>
-                    @if (User.IsInRole("Admin") || User.IsInRole("Coordinator"))
+                    @if (User.IsInRole("Admin") || User.IsInRole("Coordinator") || User.IsInRole("Manager"))
                     {
                         <a asp-action="Approve" asp-route-id="@claim.Id" class="btn btn-success">Approve</a>
                         <a asp-action="Reject" asp-route-id="@claim.Id" class="btn btn-danger">Reject</a>

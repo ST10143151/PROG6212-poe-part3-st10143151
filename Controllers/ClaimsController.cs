@@ -1,3 +1,24 @@
+// Code Attribution:
+
+//Allen, D. and Foster, A., 2022. Pro ASP.NET Core Identity: Under the Hood of Authentication and Authorization 
+//for ASP.NET Core Applications. New York: Apress.
+//Esposito, D., 2021. Modern Web Development with ASP.NET Core 5: An end-to-end guide to becoming a professional 
+//full-stack web developer. Birmingham: Packt Publishing.
+//Johnson, M., 2019. Improving efficiency through digital claims management. International Journal of Systems and 
+//Applications, 7(4), pp.102-115.
+//Microsoft, 2023. ASP.NET Core MVC Overview. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-8.0 [Accessed 18 October 2024].
+//Microsoft, 2024. Entity Framework Core Documentation. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/ef/core/ [Accessed 18 November 2024].
+//Microsoft, 2024. Introduction to Identity on ASP.NET Core. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-8.0 [Accessed 18 November 2024].
+//Microsoft, 2024. Configure ASP.NET Core Identity. Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration?view=aspnetcore-9.0 [Accessed 18 November 2024].
+//Microsoft, 2024. EF Core Tools Reference (.NET CLI). Microsoft Docs. Available at: 
+//https://learn.microsoft.com/en-us/ef/core/cli/dotnet/ [Accessed 18 November 2024].
+//Troelsen, A. and Japikse, P., 2021. Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming.
+
+
 using CMCS.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
@@ -77,7 +98,7 @@ namespace CMCS.Controllers
             {
                 var claims = await _context.Claims
                     .Join(
-                        _userManager.Users, // Join with Users
+                        _userManager.Users, 
                         claim => claim.Name, // Match Claim.Name with User.UserName
                         user => user.UserName,
                         (claim, user) => new Claim
@@ -214,7 +235,7 @@ namespace CMCS.Controllers
             var claim = await _context.Claims.FindAsync(id);
             if (claim == null) return NotFound();
 
-            claim.Status = "Approved"; // Set status explicitly to "Approved"
+            claim.Status = "Approved"; // Set status to "Approved"
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
@@ -226,7 +247,7 @@ namespace CMCS.Controllers
             var claim = await _context.Claims.FindAsync(id);
             if (claim == null) return NotFound();
 
-            claim.Status = "Rejected"; // Set status explicitly to "Rejected"
+            claim.Status = "Rejected"; // Set status to "Rejected"
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
@@ -370,7 +391,7 @@ namespace CMCS.Controllers
                 return NotFound();
             }
 
-            // Add custom verification logic if necessary
+            
             if (claim.IsValid())
             {
                 claim.Status = "Verified";

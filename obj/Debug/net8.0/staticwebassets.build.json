@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+bylDIuMaNZtDt4YZ4gfc7z3Gvk/rRU8ebWGK5z0gnk=",
+  "Hash": "vmnMNvykoIhsptKB0MJH/lhJhfzMkuAxJdna6vxeC/k=",
   "Source": "CMCS",
   "BasePath": "_content/CMCS",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CMCS/wwwroot",
       "Source": "CMCS",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/bundle/CMCS.styles.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/Debug/net8.0/scopedcss/bundle/CMCS.styles.css",
       "SourceId": "CMCS",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/CMCS",
       "RelativePath": "CMCS.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/bundle/CMCS.styles.css"
+      "OriginalItemSpec": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/Debug/net8.0/scopedcss/bundle/CMCS.styles.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/projectbundle/CMCS.bundle.scp.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/Debug/net8.0/scopedcss/projectbundle/CMCS.bundle.scp.css",
       "SourceId": "CMCS",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/CMCS",
       "RelativePath": "CMCS.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/Debug/net8.0/scopedcss/projectbundle/CMCS.bundle.scp.css"
+      "OriginalItemSpec": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/Debug/net8.0/scopedcss/projectbundle/CMCS.bundle.scp.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/css/site.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/css/site.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/favicon.ico",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/favicon.ico",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/js/site.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/js/site.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/25316a84-c86d-4de8-b556-b166e9ebc261_ClaimSummary.pdf",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/25316a84-c86d-4de8-b556-b166e9ebc261_ClaimSummary.pdf",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/25316a84-c86d-4de8-b556-b166e9ebc261_ClaimSummary.pdf",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/uploads/25316a84-c86d-4de8-b556-b166e9ebc261_ClaimSummary.pdf"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/5407578e-70bc-4969-b789-40f469f86140_ClaimSummary.pdf",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/5407578e-70bc-4969-b789-40f469f86140_ClaimSummary.pdf",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/5407578e-70bc-4969-b789-40f469f86140_ClaimSummary.pdf",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/uploads/5407578e-70bc-4969-b789-40f469f86140_ClaimSummary.pdf"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/56fdd788-bce5-4e51-8ef5-3f31ead4e02b_WhatsApp Image 2024-10-16 at 17.28.20.jpeg",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/56fdd788-bce5-4e51-8ef5-3f31ead4e02b_WhatsApp Image 2024-10-16 at 17.28.20.jpeg",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/56fdd788-bce5-4e51-8ef5-3f31ead4e02b_WhatsApp Image 2024-10-16 at 17.28.20.jpeg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/uploads/56fdd788-bce5-4e51-8ef5-3f31ead4e02b_WhatsApp Image 2024-10-16 at 17.28.20.jpeg"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/7554714f-ed10-4ac0-a170-7da69a543b8c_bruce-lee-quotes-1.jpg",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/7554714f-ed10-4ac0-a170-7da69a543b8c_bruce-lee-quotes-1.jpg",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/7554714f-ed10-4ac0-a170-7da69a543b8c_bruce-lee-quotes-1.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/uploads/7554714f-ed10-4ac0-a170-7da69a543b8c_bruce-lee-quotes-1.jpg"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/a1074255-5fde-431a-b30f-dccbc34a2881_bruce-lee-quotes-1.jpg",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/a1074255-5fde-431a-b30f-dccbc34a2881_bruce-lee-quotes-1.jpg",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/a1074255-5fde-431a-b30f-dccbc34a2881_bruce-lee-quotes-1.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/uploads/a1074255-5fde-431a-b30f-dccbc34a2881_bruce-lee-quotes-1.jpg"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/b4353d54-c7b8-4a33-a8d2-815c9a1717de_ClaimSummary.pdf",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/b4353d54-c7b8-4a33-a8d2-815c9a1717de_ClaimSummary.pdf",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/b4353d54-c7b8-4a33-a8d2-815c9a1717de_ClaimSummary.pdf",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/uploads/b4353d54-c7b8-4a33-a8d2-815c9a1717de_ClaimSummary.pdf"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/ba0a067b-074f-4347-847e-3a74c02232c2_ClaimSummary.pdf",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/ba0a067b-074f-4347-847e-3a74c02232c2_ClaimSummary.pdf",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/ba0a067b-074f-4347-847e-3a74c02232c2_ClaimSummary.pdf",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/uploads/ba0a067b-074f-4347-847e-3a74c02232c2_ClaimSummary.pdf"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/CMCS.png",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/CMCS.png",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/CMCS.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/uploads/CMCS.png"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/e744be99-77d0-44f3-b20b-a29b7c9aa515_ClaimSummary.pdf",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/e744be99-77d0-44f3-b20b-a29b7c9aa515_ClaimSummary.pdf",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/e744be99-77d0-44f3-b20b-a29b7c9aa515_ClaimSummary.pdf",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/uploads/e744be99-77d0-44f3-b20b-a29b7c9aa515_ClaimSummary.pdf"
     },
     {
-      "Identity": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/uploads/fc9a4287-787c-4891-9af7-55f9f734f231_ClaimSummary.pdf",
+      "Identity": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/uploads/fc9a4287-787c-4891-9af7-55f9f734f231_ClaimSummary.pdf",
       "SourceId": "CMCS",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/wwwroot/",
+      "ContentRoot": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/wwwroot/",
       "BasePath": "_content/CMCS",
       "RelativePath": "uploads/fc9a4287-787c-4891-9af7-55f9f734f231_ClaimSummary.pdf",
       "AssetKind": "All",

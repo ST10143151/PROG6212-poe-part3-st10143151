@@ -73,7 +73,7 @@ namespace CMCS.Controllers
             }
 
             // Admin and Coordinator view all claims
-            if (await _userManager.IsInRoleAsync(user, "Admin") || await _userManager.IsInRoleAsync(user, "Coordinator") || await _userManager.IsInRoleAsync(user, "Manager"))
+            if (await _userManager.IsInRoleAsync(user, "Admin") || await _userManager.IsInRoleAsync(user, "Coordinator") || await _userManager.IsInRoleAsync(user, "Manager") || await _userManager.IsInRoleAsync(user, "HR"))
             {
                 var claims = await _context.Claims
                     .Join(

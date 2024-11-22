@@ -6505,11 +6505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/CMCS.csproj",
+      "projectUniqueName": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/CMCS.csproj",
       "projectName": "CMCS",
-      "projectPath": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/CMCS.csproj",
+      "projectPath": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/CMCS.csproj",
       "packagesPath": "/Users/anantareddy/.nuget/packages/",
-      "outputPath": "/Users/anantareddy/VS Code Files/prog6212-poe-part-2-ST10143151-1 copy 8/obj/",
+      "outputPath": "/Users/anantareddy/VS Code Files/PROG6212-poe-part3-st10143151/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anantareddy/.nuget/NuGet/NuGet.Config"
